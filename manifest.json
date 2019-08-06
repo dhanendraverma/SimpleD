@@ -1,0 +1,7 @@
+{
+	"name": "Simple Youtube Downloader",
+	"description": "Download youtube videos simpler then before.",
+	"version": "0.1",
+	"author": "Dhanendra",
+	"manifest_version": 2
+}
